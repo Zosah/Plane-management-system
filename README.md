@@ -10,9 +10,10 @@
     ShowPicture - 展示图
 
 ### 程序说明
-本飞机订票系统模仿各大售票网站，支持根据日期、始发地、目的地等搜索。
-管理员端可修改航班
-乘客端可顶、退、改票
+
+    本飞机订票系统模仿各大售票网站，支持根据日期、始发地、目的地等搜索。
+    管理员端可修改航班
+    乘客端可顶、退、改票
 
 ### 展示图
 ![1](https://github.com/Guzhz/Plane-management-system/blob/master/ShowPicture/image1.png?raw=true)
