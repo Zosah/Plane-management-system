@@ -2,6 +2,7 @@
 飞机订票管理系统
 ### 包说明
 整个项目包括：源代码、流程图、实训报告、数据库表
+
     Database - mysql数据库表
     Flowchart - 流程图
     Jar - 依赖jar包
